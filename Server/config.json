@@ -1,0 +1,8 @@
+{
+  "databasename" : "test",
+  "username" : "test1",
+  "password" :"test1",
+  "ip" : "127.0.0.1",
+  "colname" : "server83",
+  "port" : "27017"
+}
